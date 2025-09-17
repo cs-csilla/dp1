@@ -1,0 +1,20 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250917093404
+Username: GANZISKOLA\csupocs0921
+RunAs User: GANZISKOLA\csupocs0921
+Configuration Name: 
+Machine: A019-16 (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 8428
+PSVersion: 5.1.26100.4768
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4768
+BuildVersion: 10.0.26100.4768
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\log02.txt
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5ccsupocs0921\x5cDesktop\x5cwp\x5chaladó\x5cdp1PS C:\Users\csupocs0921\Desktop\wp\haladó\dp1> ]633;B
